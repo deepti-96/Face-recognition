@@ -14,11 +14,11 @@ The repository for the tutorial of the same name can be found here. The goal is 
 
 ## Libraries
 
-•	os
-•	opencv
-•	numpy
-•	pickle
-•	pillow
+•	os<br />
+•	opencv<br />
+•	numpy<br />
+•	pickle<br />
+•	pillow<br />
 
 ## Installation
 
@@ -45,7 +45,7 @@ The model can recognize a person's picture in real time. This is a non-deep lear
 
 ## References
 
-This project is built by following CodingEntreprenur's tutorial in this YouTube video:
+This project is built by following CodingEntreprenur's tutorial in this YouTube video:<br />
 https://www.youtube.com/watch?v=PmZ29Vta7Vc&list=PLIxHGHeOyd0zy51wDjY0wjVpAjo3E93ir&index=29
 
 ## License
